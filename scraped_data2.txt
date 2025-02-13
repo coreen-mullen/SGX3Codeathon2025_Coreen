@@ -1,0 +1,125 @@
+Title: Custos Admin Gateway
+Link: https://sciencegateways.org/resources/10214
+Publish Date: 26 Jun 2024
+Result Description: Custos provides security services, including identity management, authorization management, and resource credential management, for science gateways
+
+Title: EDGE-Bioinformatics-Gateway
+Link: https://sciencegateways.org/resources/10216
+Publish Date: 26 Jun 2024
+Result Description: The EDGE Bioinformatics Science Gateway was developed to help biologists, educators and public-health professionals process Next Generation Sequencing data (in the form of raw FASTQ files), even if they have little to no bioinformatics expertise. EDGE is a highly integrated and interactive...
+
+Title: CyberWater
+Link: https://sciencegateways.org/resources/10215
+Publish Date: 26 Jun 2024
+Result Description: To tackle fundamental scientific questions regarding health, resilience, and sustainability of water resources that encompass hydrological, biological, environmental, atmospheric, and other geosciences that define the Earth system, researchers need to be able to easily access diverse data...
+
+Title: Biolearns
+Link: https://sciencegateways.org/resources/10212
+Publish Date: 26 Jun 2024
+Result Description: To further facilitate the general needs of online real-time co-expression analysis, we develop biolearns, a python-based co-expression network analysis web tool.
+
+Title: Future Water Indiana
+Link: https://sciencegateways.org/resources/10217
+Publish Date: 26 Jun 2024
+Result Description: This project is part of Indiana University's Grand Challenges Prepared for Environmental Change project. For this project, we are building a computer-based watershed model of the Wabash River Basin. This model will be used to investigate climate change impacts on water resources in Indiana....
+
+Title: GEO-ABM for Analysis of COVID-19 Transmission
+Link: https://sciencegateways.org/resources/10218
+Publish Date: 26 Jun 2024
+Result Description: This gateway helps schools and school districts understand the risks of COVID-19 transmission in schools and the potential effects of non-pharmaceutical interventions using a spatiallly-explicit agent-based model
+
+Title: Global Floods Monitoring
+Link: https://sciencegateways.org/resources/10219
+Publish Date: 26 Jun 2024
+Result Description: "We are researchers from the approved project ASC190069: Deep Convolutional Neural Network based Learning of Disaster Induced Changes in Remote Sensing Images. With our ongoing progress and success in using the Bridges2-GPU-AI infrastructure, we are planning to develop a science gateway...
+
+Title: High-Resolution Modeling of Hydrodynamic Experiments with UltraScan
+Link: https://sciencegateways.org/resources/10220
+Publish Date: 26 Jun 2024
+Result Description: This XSEDE ACCESS portal provides access to the high performance computing back-end of UltraScan (https://www.ultrascan.aucsolutions.comuthscsa.edu) which is used to analyze analytical ultracentrifugation experiments by high-resolution methods. Users can request an individual database instance...
+
+Title: Metaproteomics Gateway
+Link: https://sciencegateways.org/resources/10221
+Publish Date: 26 Jun 2024
+Result Description: Galaxy-P platform offers an open source, bioinformatics platform for disseminating metaproteomics software and workflows. This was a result of metaproteomics contribution-fest (z.umn.edu/mphack2016) which generated easily accessible and documented metaproteomic software tools and workflows. The...
+
+Title: Microbial Genomes Atlas
+Link: https://sciencegateways.org/resources/10222
+Publish Date: 26 Jun 2024
+Result Description: The Microbial Genomes Atlas –MiGA– processes Prokaryotic genomes (draft or complete), applies different quality checks, and identifies the closest relatives in public databases using a combination of genome-wide identity metrics such as the average nucleotide identity (ANI) and the...
+
+Title: Open Knowledge of Interatomic Models
+Link: https://sciencegateways.org/resources/10223
+Publish Date: 26 Jun 2024
+Result Description: The Open Knowledgebase of Interatomic Models (OpenKIM) is an interatomic potential repository and an online framework for making molecular simulations reliable, reproducible, and portable. Computer implementations of interatomic models are archived in OpenKIM, verified for coding integrity, and...
+
+Title: Plasma Science Virtual Laboratory
+Link: https://sciencegateways.org/resources/10224
+Publish Date: 26 Jun 2024
+Result Description: The Plasma Science Virtual Laboratory (VLab) is the gateway that drives the Gkeyll workflow executions on a wide range of HPC systems. The VLab is deployed with hosted gateway platform SciGaP, using Apache Airavata middleware as the underlying middleware that provides gateways. Gkeyll is a...
+
+Title: Proteogenomics Gateway
+Link: https://sciencegateways.org/resources/10225
+Publish Date: 26 Jun 2024
+Result Description: This page provides links to instructional materials describing how to access and use the proteogenomic workflows described in the manuscript text. Please access the links indicated below for the following materials: Training on usegalaxyp.org How to access and use the usegalaxyp.org training...
+
+Title: Providing a Neuroscience Gateway
+Link: https://sciencegateways.org/resources/10226
+Publish Date: 26 Jun 2024
+Result Description: The Neuroscience Gateway (NSG) is an open project funded by the National Science Foundation and developed by researchers from UCSD and Yale University. The NSG (www.nsgportal.org) is a software infrastructure that allows computational neuroscience researchers and students to easily utilize HPC...
+
+Title: Searching the SRA
+Link: https://sciencegateways.org/resources/10227
+Publish Date: 26 Jun 2024
+Result Description: Searching the SRA provides a gateway for researchers to explore sequence data from publicly available metagenomics projects in the Sequence Read Archive, You can upload a DNA or protein query sequence, and quickly scan for the presence of that sequence in over 100,000 freely available datasets...
+
+Title: Snow Vision
+Link: https://sciencegateways.org/resources/10228
+Publish Date: 26 Jun 2024
+Result Description: Our team of archaeologists, computer scientists, and digital humanists unites outstanding problems in art and archaeology and cutting-edge computer-vision research – an example of digital humanities par excellence – to automate the matching of stamped pottery sherds in order to...
+
+Title: Visualizing Statistical Concepts: A collection of tools for emerging music education researchers
+Link: https://sciencegateways.org/resources/10229
+Publish Date: 26 Jun 2024
+Result Description: "I created a virtual machine with the statistical program R installed. R is a free, open-source statistical computing and graphics language and is a flexible platform for organizing, visualizing, and analyzing data. The web applications accessible from the page were built with an...
+
+Title: Apache Airvata Testdrive Gateway
+Link: https://sciencegateways.org/resources/10209
+Publish Date: 24 Jun 2024
+Result Description: The Airavata Django Portal is a web interface to the Apache Airavata API implemented using the Django web framework. The intention is that the Airavata Django Portal can be used as is for a full featured web based science gateway but it can also be customized through various plugins...
+
+Title: MultiPLX
+Link: https://sciencegateways.org/resources/10006
+Publish Date: 09 May 2024
+Result Description: About the program: MultiPLX 2.1 is a tool for analyzing PCR primer compatibility and automatically finding optimal multiplexing (grouping) solution. It uses state-of-the-art nearest neighbour DNA binding thermodynamics to estimate possible unwanted...
+
+Title: DoD HPC portal
+Link: https://sciencegateways.org/resources/10007
+Publish Date: 09 May 2024
+Result Description: US Department of Defense (DoD) High Performance Computing Modernization Program (HPCMP) provides a Web-based software-as-a-service (SaaS) access approach known as the HPC (High Performance Computing) Portal. The Portal supports the life cycle of design and...
+
+Title: Enzyme Portal
+Link: https://sciencegateways.org/resources/10008
+Publish Date: 09 May 2024
+Result Description: The Enzyme Portal is for those interested in the biology of enzymes and proteins with enzymatic activity. It integrates publicly available information about enzymes, such as small-molecule chemistry, biochemical pathways and drug compounds.
+
+Title: Worldwide PDB (wwPDB)
+Link: https://sciencegateways.org/resources/10009
+Publish Date: 09 May 2024
+Result Description: Since 1971, the Protein Data Bank archive (PDB) has served as the single repository of information about the 3D structures of proteins, nucleic acids, and complex assemblies. The Worldwide PDB (wwPDB) organization manages the PDB archive and ensures that the PDB is...
+
+Title: MapStory
+Link: https://sciencegateways.org/resources/10010
+Publish Date: 09 May 2024
+Result Description: MapStory is an online social cartographic platform that empowers a community of experts to crowd-source and peer review data within a geospatial and temporal framework. Mapstory uses GeoNode, a spatial data infrastructure solution that extends the OpenGeo...
+
+Title: HOGENOM : Database of Complete Genome Homologous Genes Families
+Link: https://sciencegateways.org/resources/10011
+Publish Date: 09 May 2024
+Result Description: HOGENOM is a database of homologous genes clusters in complete genome (bacteria, archeaea and eukarya). It allows to select sets of homologous genes among species, and to visualize multiple alignments and phylogenetic trees.
+
+Title: NOMAD Repository
+Link: https://sciencegateways.org/resources/10012
+Publish Date: 09 May 2024
+Result Description: The Repository developed and maintained by NOMAD is now the largest repository for computational materials science worldwide, containing the input and output files from several million high-quality calculations. The volume of files made available through the NOMAD...
+
